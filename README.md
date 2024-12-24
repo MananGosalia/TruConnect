@@ -80,26 +80,22 @@
 <h2 style="text-align: center;">Screenshots</h2>
 <p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
 
-<h2 style="text-align: center;">Screenshots</h2>
-<p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
-
 <h2>Screenshots</h2>
 <p>Here are a few key screens from the TruConnect design:</p>
 
 <!-- Student Dashboard -->
 <h4>Student Dashboard</h4>
-<img src="Student Dashboard.png" alt="Student Dashboard" width="400">
+<img src="assets/Student Dashboard.png" alt="Student Dashboard" width="400">
 <hr>
 
 <!-- Parent Dashboard -->
 <h4>Parent Dashboard</h4>
-<img src="Parent Dashboard.png" alt="Parent Dashboard" width="400">
+<img src="assets/Parent Dashboard.png" alt="Parent Dashboard" width="400">
 <hr>
 
 <!-- Teacher Dashboard -->
 <h4>Teacher Dashboard</h4>
-<img src="Teacher Dashboard.png" alt="Teacher Dashboard" width="400">
-<hr>
+<img src="assets/Teacher Dashboard.png" alt="Teacher Dashboard" width="400">
 
 <h2>Technology Used</h2>
 <p>While this repository contains only the design (Figma), here are the key technologies to use for the full implementation of TruConnect:</p>
